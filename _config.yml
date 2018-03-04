@@ -1,0 +1,8 @@
+title: Yuyangzxw.github.com
+description: 异域国度
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
